@@ -16,20 +16,23 @@ color:white;
 	display:float;
 }
 .first{
-	background-color:white;
 	height:30%;
-	width:30%;
+	width:25%;
 	float:left;
-	background-color:white;
+	
 }
 .second{
 	height:60%;
-	width:30%;
+	width:25%;
 	float:left;
-	background-color:white;
+	
 }
 .third{
 	float:right;
-	width:
-		background-color:white;
+	width:40%;
+}
+section{
+	text-align:center;
+	padding:5px;
+	background-color:white;
 }
