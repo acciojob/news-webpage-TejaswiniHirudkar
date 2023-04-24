@@ -15,7 +15,7 @@ color:white;
 	margin:5px;
 	display:float;
 }
-.first{
+.latest-news-section{
 	height:30%;
 	width:25%;
 	float:left;
@@ -27,7 +27,7 @@ color:white;
 	float:left;
 	
 }
-.third{
+.pictorial-news-section{
 	float:right;
 	width:40%;
 }
